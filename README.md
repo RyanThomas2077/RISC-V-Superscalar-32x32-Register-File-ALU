@@ -17,6 +17,9 @@ This repository aims to implement a superscalar 4-Read/2-Write register file. If
 # Overview
 ### <ins> Project Rationale:</ins>
 
+<p align="center">
+  <img src="Screenshots/SuperscalarRegisterFile.png" />
+</p>
 
 ### <ins> Project Summary:</ins>
 
